@@ -1,0 +1,10 @@
+Starting Attack 1 with K = 1048576, L = 1024
+Initial value: 
+Array: [66, 62, 75, 14, 210, 163, 101, 125, 95, 12, 84, 156, 219, 86, 226, 58, 
+        192, 154, 128, 15, 135, 31, 39, 79, 87, 50, 2, 149, 244, 243, 102, 232]
+Hash: 1aecfdfefdfa4d018d9a87fd0e9da30c  a2bc898e
+Preimage found :D
+Preimage:
+Array: [242, 15, 215, 173, 226, 242, 12, 220, 247, 211, 119, 166, 247, 192, 230, 76]
+Hash: 95ccac5544f0a3694118faaa5ccce0e6  a2bc898e
+Elapsed time: 47

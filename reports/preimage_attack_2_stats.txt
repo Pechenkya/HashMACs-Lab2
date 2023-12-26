@@ -1,0 +1,40 @@
+K = 1024, L = 1024: Multitables started
+7987, 2013
+K = 1024, L = 1024: Elapsed time: 494
+K = 1024, L = 2048: Multitables started
+6800, 3200
+K = 1024, L = 2048: Elapsed time: 975
+K = 1024, L = 4096: Multitables started
+6551, 3449
+K = 1024, L = 4096: Elapsed time: 2043
+K = 2048, L = 1024: Multitables started
+4292, 5708
+K = 2048, L = 1024: Elapsed time: 1037
+K = 2048, L = 2048: Multitables started
+2922, 7078
+K = 2048, L = 2048: Elapsed time: 3120
+K = 2048, L = 4096: Multitables started
+3291, 6709
+K = 2048, L = 4096: Elapsed time: 6399
+K = 4096, L = 1024: Multitables started
+498, 9502
+K = 4096, L = 1024: Elapsed time: 1442
+K = 4096, L = 2048: Multitables started
+304, 9696
+K = 4096, L = 2048: Elapsed time: 3322
+K = 4096, L = 4096: Multitables started
+760, 9240
+K = 4096, L = 4096: Elapsed time: 6059
+
+Attack 2 results:
+Not found, Found
+7987, 2013
+6800, 3200
+6551, 3449
+4292, 5708
+2922, 7078
+3291, 6709
+498, 9502
+304, 9696
+760, 9240
+Elapsed time: 24905
